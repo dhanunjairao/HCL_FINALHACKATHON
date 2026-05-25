@@ -1,4 +1,4 @@
-package com.foodorder.dto;
+package com.example.HCL_FInal.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
